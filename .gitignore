@@ -1,0 +1,6 @@
+data/
+proyecto_insectos/
+.ipynb_checkpoints/
+notes/
+guia_optimizacion_regularizacion/*.crdownload
+*.pt
